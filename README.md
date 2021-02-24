@@ -5,6 +5,6 @@ La tematica de la App consiste en permitir gestionar cuestionarios de una insitu
 _Super admin: Es el nivel que le otorga acceso a las instituciones a QuizApp.
 _Admi/School: Es el nivel que crea/elimina/modifica los cuestionarios y asigna profesores.
 _Teacher: Es el nivel que administra los cuestionarios, creando/eliminando/modificando, preguntas y respuestas. Por otro lado, puede tambien aceptar a estudiantes al cuestionario.
-
+_Student: Puede enrolarse a los cuestionarios, ser promovido a teacher(por la institucion) y puede hacer el cuestionario a travez de la QuizApp mobile
 
 Para ver una demo ingresa aqui : https://quizapp-web-ten.vercel.app/
